@@ -1,4 +1,4 @@
-//  Take input from the user and write the data in the file "out.txt"
+//  Take input from the user and write the data in the file "output.txt"
 
 import java.io.*;
 import  java.util.*;
